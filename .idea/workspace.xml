@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b374a90e-20a6-4006-890f-cf556eae48cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/数据库.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/数据库.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/本地测试域名.png" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/本地测试域名.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-apps-master/截图/页面截图.gif" beforeDir="false" afterPath="$PROJECT_DIR$/demo-apps-master/imgs/preview.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package_versions.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,24 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-apps-master/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="248">
-                <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="124">
-                <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <first_editor relative-caret-position="155">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -80,12 +59,6 @@
               <item name="car_part" type="462c0819:PsiDirectoryNode" />
               <item name="demo-apps-master" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="car_part" type="b2602c69:ProjectViewProjectNode" />
-              <item name="car_part" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-apps-master" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -122,12 +95,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576761147939</updated>
-      <workItem from="1576761154071" duration="2080000" />
+      <workItem from="1576761154071" duration="2206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2080000" />
+    <option name="totallyTimeSpent" value="2206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -139,10 +112,10 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -181,8 +154,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="124">
-            <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <first_editor relative-caret-position="155">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
